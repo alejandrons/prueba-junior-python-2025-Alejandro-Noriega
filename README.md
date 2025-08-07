@@ -10,6 +10,8 @@ para el puesto de desarrollador Python/.NET.
 El repositorio consta de tres módulos:
 
 📦 prueba-junior-python.2025
+├── 📁 ejemplos_uso/
+│   └── 📄 ejemplos.docx
 ├── 📁 parte1_mysql/
 │   └── 📄 main.py
 ├── 📁 parte2_api/
@@ -102,3 +104,4 @@ notificaciones de manera persistente.
 * Se entiende que el cliente final del software tiene preferencia por el motor de base de datos administrado por Oracle *"MySQL"*, sin embargo la transición del código contenido en el primer reto de un motor de base de datos a otro no es complicada.
 * En el historial del repositorio quizás no puede observarse, pero como buena práctica se dividió la solución de cada reto en una rama diferente de git, se aseguró que cada solución fuera funcional y después de solucionado el reto completo se combinaron todas las ramas a la rama principal, ésto para asegurar que no hubiera conflictos y tener organizado el desarrollo de la solución a cada reto.
 * Los ejemplos de ejecución y capturas de pantalla de la solución a cada reto pueden encontrarse en la carpeta *ejemplos_uso* donde se puede observar la solución a cada reto y cada requisito en funcionamiento.
+* Se entiende que el usuario final posee conocimiento de los requisitos funcionales por lo que la validación de los datos de entrada no es excesivamente estricta.

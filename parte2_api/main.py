@@ -57,8 +57,6 @@ while True:
 
         response = requests.put(query, json=body)
 
-        print(response.status_code)
-
         if response.status_code == 200:
             print("Título del post actualizado correctmente.")
         else:
