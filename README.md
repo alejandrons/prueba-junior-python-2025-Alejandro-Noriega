@@ -8,7 +8,7 @@ para el puesto de desarrollador Python/.NET.
 ### Organización:
 
 El repositorio consta de tres módulos:
-
+```
 📦 prueba-junior-python.2025
 ├── 📁 ejemplos_uso/
 │   └── 📄 ejemplos.docx
@@ -21,7 +21,7 @@ El repositorio consta de tres módulos:
 ├── 📄 requirements.txt
 ├── 📄 .gitignore
 └── 📄 README.md
-
+```
 ### Instalación y ejecución
 
 La prueba técnica ha sido desarrollada con diversas librerías para Python buscando la mayor simplicidad posible, las librerías usadas son:
